@@ -374,7 +374,7 @@ a {
         }
 
         &:nth-child(4)::before {
-            width: 45%;
+            width: 35%;
             animation: skill_4 $time ease;
         }
 
@@ -432,7 +432,7 @@ a {
     }
 
     to {
-        width: 45%;
+        width: 35%;
     }
 }
 
