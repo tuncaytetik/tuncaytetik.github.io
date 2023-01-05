@@ -374,12 +374,12 @@ a {
         }
 
         &:nth-child(4)::before {
-            width: 35%;
+            width: 65%;
             animation: skill_4 $time ease;
         }
 
         &:nth-child(5)::before {
-            width: 40%;
+            width: 55%;
             animation: skill_5 $time ease;
         }
 
@@ -432,7 +432,7 @@ a {
     }
 
     to {
-        width: 35%;
+        width: 65%;
     }
 }
 
@@ -442,7 +442,7 @@ a {
     }
 
     to {
-        width: 40%;
+        width: 55%;
     }
 }
 
